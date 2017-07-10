@@ -123,7 +123,7 @@ Spring+SpringMVC+Mybatis框架集成公共模块，包括公共配置、MybatisG
 
 - 部署war包：pis-upms-server（端口8080）；pis-cms-admin（端口2222）
 
-- 访问http://localhost:8080/manager/index
+- 访问http://localhost:8080/pis-upms-server/manage/index](http://localhost:8080/pis-upms-server/sso/login?backurl=http%3A%2F%2F47.92.7.213:8080%2Fpis-upms-server%2Fmanage%2Findex
 
 
 ### 数据模型
@@ -134,7 +134,6 @@ Spring+SpringMVC+Mybatis框架集成公共模块，包括公共配置、MybatisG
 
 ## 演示地址
 
-演示地址： [http://localhost:8080/pis-upms-server/manage/index](http://localhost:8080/pis-upms-server/sso/login?backurl=http%3A%2F
-%2Flocalhost:8080%2Fpis-upms-server%2Fmanage%2Findex "演示地址")
+演示地址： [http://47.92.7.213:8080/pis-upms-server/manage/index](http://47.92.7.213:8080/pis-upms-server/sso/login?backurl=http%3A%2F%2F47.92.7.213:8080%2Fpis-upms-server%2Fmanage%2Findex "演示地址")
 
 
